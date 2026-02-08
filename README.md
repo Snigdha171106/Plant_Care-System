@@ -94,10 +94,10 @@ Reminder: Check your plants and update their health if needed.
 
 ---
 
-# 👨‍💻 Author (Group Project)
+# 👨‍💻 Author 
 
-Snigdha Kandikatla |
-Pranjali Sidral 
+Snigdha Kandikatla
 
 ---
+
 
