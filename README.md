@@ -97,8 +97,7 @@ Reminder: Check your plants and update their health if needed.
 # 👨‍💻 Author (Group Project)
 
 Snigdha Kandikatla |
-Pranjali Sidral |
-Gayatri Jadhav |
-Sandhya Pawar 
+Pranjali Sidral 
 
 ---
+
